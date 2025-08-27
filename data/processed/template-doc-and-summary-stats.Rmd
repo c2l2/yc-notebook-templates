@@ -49,3 +49,10 @@ df.head(10)
 ```{r}
 df |> summary()
 ```
+
+### Assertions
+```{r}
+# Write assertions here—conditions that should always hold in the data.
+# Use them to demonstrate that you have carefully checked the data’s correctness.
+```
+
