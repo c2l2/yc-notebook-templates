@@ -40,6 +40,8 @@ Make sure you have followed the guidelines as specified in
 
 ```{r}
 # Create a function that takes parameters above as arguments and generate the data
+# Concluding this block by generating the data.
+# Note: Please set the seed right before you generate the data.
 ```
 
 For the remaining blocks, make sure you have followed the guidelines as specified in [專案資料夾結構、檔案命名與文件規範](https://docs.google.com/document/d/1sl6gEFMdmiGsiNjLe17UmZ30xKxq15U0Mb2B-Jvusxg/edit?tab=t.33iie8ybx7s4).
